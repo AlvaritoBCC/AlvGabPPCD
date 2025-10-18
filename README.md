@@ -4,3 +4,8 @@ Mi primer repositorio
 -Dominar el trabajo con ramas
 -Entender como resolver conflictos
 -Mejorar mis habilidades de colaboracion en proyectos
+
+Alumnos:
+Cuevas Castro Alvaro Baruch
+Garcia Alvarez Gabriel
+3AM1
