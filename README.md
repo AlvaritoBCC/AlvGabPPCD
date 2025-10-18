@@ -1,11 +1,11 @@
-Mi primer repositorio
-#Objetivos personales del curso
--Aprender Git y Github de manera practica
--Dominar el trabajo con ramas
--Entender como resolver conflictos
--Mejorar mis habilidades de colaboracion en proyectos
+# Mi primer repositorio
+## Objetivos personales del curso
+- Aprender Git y Github de manera practica
+- Dominar el trabajo con ramas
+- Entender como resolver conflictos
+- Mejorar mis habilidades de colaboracion en proyectos
 
-Alumnos:
+## Alumnos:
 Cuevas Castro Alvaro Baruch
 Garcia Alvarez Gabriel
-3AM1
+** Grupo: ** 3AM1
