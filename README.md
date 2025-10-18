@@ -6,6 +6,6 @@
 - Mejorar mis habilidades de colaboracion en proyectos
 
 ## Alumnos:
-Cuevas Castro Alvaro Baruch
-Garcia Alvarez Gabriel
-** Grupo: ** 3AM1
+- Cuevas Castro Alvaro Baruch
+- Garcia Alvarez Gabriel
+Grupo: 3AM1
